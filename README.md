@@ -2,7 +2,10 @@
 
 This is the '[Build a Chrome Extension](https://scrimba.com/learn-javascript-c0v/~03i)' part of the '[Learn JavaScript](https://scrimba.com/learn-javascript-c0v)' course by Scrimba. It illustrates how to build a simple chrome extension which mainly saves tabs.
 
-This part explained several topics including:
+This is my third frontend project in my *"developing my frontend skills to become a full-stack developer so I can land a good job"* journey. 
+
+
+### This part explained several topics including:
 - `const` keyword which defines variables that cannot be assigned again
 - `addEventListener()` method to add click (or double-click) listeners to buttons in javascript code
 - `innerHtml` property; used when we want to manipulate inner html of an html component
