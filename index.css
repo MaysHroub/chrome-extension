@@ -1,0 +1,66 @@
+body {
+    font-family: 'Trebuchet MS', Arial, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: antiquewhite;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #339644;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 32%;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: rgb(60, 140, 55);
+    box-sizing: border-box;
+    border: 1px solid rgb(60, 140, 55);
+}
+
+button:hover {
+    background-color: rgb(55, 126, 50);
+    cursor: pointer;
+}
+
+button:active {
+    background-color: rgb(47, 110, 43);
+}
+
+#delete-btn {
+    background-color: #ffffff;
+    color: rgb(60, 140, 55);
+}
+
+#delete-btn:hover {
+    background-color: rgb(247, 247, 247);
+    cursor: pointer;
+}
+
+#delete-btn:active {
+    background-color: rgb(236, 236, 236);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-top: 3px;
+}
+
+li a {
+    color: #2b9624;
+}
